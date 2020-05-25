@@ -105,6 +105,8 @@
 }
 .icon-rss:before {
   content: "\e604";
+  position: relative;
+  top: 3px;
 }
 .icon-google:before {
   content: "\e609";
